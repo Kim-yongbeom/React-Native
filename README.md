@@ -15,6 +15,9 @@
 react native를 처음 접할때 사용하기 편함
 ```
 
+## Expo-CLI 설치
+- https://fomaios.tistory.com/entry/React-Native-Expo%EB%9E%80-feat-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+
 ## 라이브러리
 - react-native-paper
 ```
