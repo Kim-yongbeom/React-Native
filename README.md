@@ -21,5 +21,8 @@ react native를 처음 접할때 사용하기 편함
 ## React-Native 설치
 - https://myung-ho.tistory.com/116
 
-### React Native fb-watchman 에러 발생 시
+### React Native fb-watchman 에러 발생 시 또는 warning: Watchman `watch-project`, warning: Watchman `query` 경고 뜰 때
 - https://jsdev.kr/t/react-native-fb-watchman/7303
+
+### ios 실제 기기에서 사용하는 법 (안드로이드는 참고 x, 그냥 안드로이드 스튜디오에서 물리 장치 연결하면됨)
+- https://kitty-geno.tistory.com/98
