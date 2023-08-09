@@ -27,5 +27,3 @@ react native를 처음 접할때 사용하기 편함
 ### ios 실제 기기에서 사용하는 법 (안드로이드는 참고 x, 그냥 안드로이드 스튜디오에서 물리 장치 연결하면됨)
 - https://kitty-geno.tistory.com/98
 
-### react-native-vector-icon (ios 아이콘 깨짐 현상)
-- https://www.inflearn.com/questions/511510/ios%EC%97%90%EC%84%9C-react-native-vector-icons-%EC%84%A4%EC%A0%95%EA%B3%BC%EC%A0%95-%EC%98%A4%EB%A5%98-%EB%88%84%EB%9D%BD-%EB%B6%80%EB%B6%84
